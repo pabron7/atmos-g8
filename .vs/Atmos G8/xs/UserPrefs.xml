@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{2A3E5FF4-986D-1D02-B373-75B442AE6FE6}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ParticleSystemController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/FollowPlayerPeriodically.cs" Line="22" Column="1" />
+      <File FileName="Assets/Scripts/ParticleSystemEntry.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ParticleSystemController.cs" Line="6" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Atmos G8" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="AmplifyShaderEditor" expanded="True">
+                <Node name="Plugins" expanded="True">
+                  <Node name="Editor" expanded="True">
+                    <Node name="Utils" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Externat" expanded="True">
+                <Node name="ModularFirstPersonController" expanded="True">
+                  <Node name="FirstPersonController" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Scripts" expanded="True">
+                <Node name="ParticleSystemController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AmplifyShaderEditor PreferredExecutionTarget="75519fd6-a7f4-4b9d-aaec-1f0c958d9407" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
