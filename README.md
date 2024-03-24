@@ -24,11 +24,11 @@ conceptual atmosphere generator project for new media tools &amp; technologies c
 
 ### Team
 * _Gizem Zengin_
-  > Particle Effects &amp; art
+  > Particle Effects &amp; Art
 * _Ergünalp Kurt_
-  > C# programming
+  > C# Programming
 * _Kerem Kurt_
-  > 3D Arts
+  > 3D Modeling &amp; Arts
 * _Alp Kurt_
   > Environment, C# Programming
    
